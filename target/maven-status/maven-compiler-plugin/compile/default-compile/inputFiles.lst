@@ -1,0 +1,7 @@
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/backend/rowmapper/StudentAddressRowmapper.java
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/web/controller/StudentAddressController.java
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/backend/repository/StudentAddressRepository.java
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/web/dto/StudentAddressDTO.java
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/backend/entity/Student.java
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/backend/entity/StudentAddress.java
+/Users/Lan/workspace/student-app/src/main/java/com/tmobile/student/StudentApp.java
